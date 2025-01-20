@@ -6,15 +6,15 @@ Overview
 This project is a responsive personal portfolio website designed to showcase your skills, experiences, projects, and achievements. The website is fully responsive and features modern design elements to create a visually appealing and user-friendly experience.
 
 Features
-# Responsive Design: Adjusts seamlessly across devices including desktops, tablets, and smartphones.
-# Custom Navbar: Includes a fixed navigation menu with smooth transitions for smaller screens.
-# home Section: A full-height section with a background image and introduction text.
-# About Section: Details about yourself, your skills, and background.
-# Education Section: Highlights your academic achievements and institutions attended.
-# Experience Section: Lists your professional experience and testimonials.
-# Projects Section: Showcases your projects in a grid-based gallery layout.
-# Achievements Section: Dedicated space for listing significant accomplishments.
-# Footer: Contains social media links and additional contact information.
+-Responsive Design: Adjusts seamlessly across devices including desktops, tablets, and smartphones.
+-Custom Navbar: Includes a fixed navigation menu with smooth transitions for smaller screens.
+-home Section: A full-height section with a background image and introduction text.
+- About Section: Details about yourself, your skills, and background.
+- Education Section: Highlights your academic achievements and institutions attended.
+- Experience Section: Lists your professional experience and testimonials.
+- Projects Section: Showcases your projects in a grid-based gallery layout.
+- Achievements Section: Dedicated space for listing significant accomplishments.
+- Footer: Contains social media links and additional contact information.
 
 
 File Structure
