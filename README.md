@@ -17,17 +17,6 @@ Features
 - Footer: Contains social media links and additional contact information.
 
 
-File Structure
-
-project-root/
-|
-├── index.html         # Main HTML file
-├── css/
-│   └── styles.css     # Contains all CSS styles
-├── images/
-│   └── [image files]  # All image assets used in the project
-└── README.md          # Documentation for the project
-
 Technologies Used
 
 HTML5: For structuring the content.
