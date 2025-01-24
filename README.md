@@ -1,6 +1,6 @@
 # professional-portfolio
 Website README
-
+link -https://jai-vignesh007.github.io/professional-portfolio/
 Overview
 
 This project is a responsive personal portfolio website designed to showcase your skills, experiences, projects, and achievements. The website is fully responsive and features modern design elements to create a visually appealing and user-friendly experience.
@@ -62,4 +62,4 @@ Flexbox properties have been used extensively to create responsive layouts, incl
 -Aligning items centrally
 -Distributing items evenly across available space
 -Adjusting layout direction based on screen size
-=Allowing items to wrap when the screen width is small
+-Allowing items to wrap when the screen width is small

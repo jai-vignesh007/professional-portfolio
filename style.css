@@ -143,6 +143,32 @@ p {
 #About ul li strong {
     color: #091f36;
 }
+ 
+  .connect a {
+    text-decoration: none;
+    color: #0073b1; 
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+
+.connect a:hover {
+    color: #005582; 
+    transform: scale(1.1);
+}
+
+
+.connect a:visited {
+    color: #4f1f7c; 
+}
+
+
+.connect a:focus {
+    outline: 2px dashed #ff6600; 
+    outline-offset: 2px;
+}
+    
 
 .tech {
     padding-left: 10px;
@@ -499,7 +525,7 @@ footer p {
 }
 
 
-/* Combine all media queries here */
+
 @media (max-width: 768px) {
     /* Navbar and Menu Button adjustments */
     #navbar {
